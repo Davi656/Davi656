@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Davi!
+# 👋 Eai, eu sou o Davi!
 
 🎓 Atualmente sou estudante do **2º semestre do 2º ano** no **IFCE - Campus Maranguape**.  
 💡 Sou curioso por tecnologia e apaixonado por aprender coisas novas, especialmente no mundo da programação!
@@ -23,8 +23,8 @@ Atualmente focado em aprender e praticar:
 
 Além das linguagens, também estou explorando:
 
-- Versionamento com **Git e GitHub**
-- Lógica de programação e algoritmos
-- Estruturas de dados básicas
-- Boas práticas de codificação
+- Versionamento com **Git e GitHub**.
+- Lógica de programação e algoritmos.
+- Estruturas de dados básicas.
+- Boas práticas de codificação.
 
