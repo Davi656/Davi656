@@ -7,11 +7,11 @@
 
 Atualmente focado em aprender e praticar:
 
-- 🌐 **HTML**
-- 🎨 **CSS**
-- 🐍 **Python**
-- ☕ **Java**
-- ✨ **JavaScript**
+- 🌐 **HTML**.
+- 🎨 **CSS**.
+- 🐍 **Python**.
+- ☕ **Java**.
+- ✨ **JavaScript**.
 
 ## 📘 Sobre mim
 
