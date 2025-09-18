@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Davi!
 
-<!--
-**Davi656/Davi656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente sou estudante do **2º semestre do 2º ano** no **IFCE - Campus Maranguape**.  
+💡 Sou curioso por tecnologia e apaixonado por aprender coisas novas, especialmente no mundo da programação!
 
-Here are some ideas to get you started:
+## 🚀 O que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente focado em aprender e praticar:
+
+- 🌐 **HTML**
+- 🎨 **CSS**
+- 🐍 **Python**
+- ☕ **Java**
+- ✨ **JavaScript**
+
+## 📘 Sobre mim
+
+- 📍 Moro no Ceará, Brasil.
+- 🔄 Sempre em busca de evoluir e colocar meus conhecimentos em prática com projetos reais.
+- 📚 Gosto de explorar tanto o lado visual do front-end quanto a lógica por trás do back-end.
+
+## 🌱 Estou aprendendo...
+
+Além das linguagens, também estou explorando:
+
+- Versionamento com **Git e GitHub**
+- Lógica de programação e algoritmos
+- Estruturas de dados básicas
+- Boas práticas de codificação
+
+## 📫 Me encontre por aí:
+
+- [LinkedIn](https://www.linkedin.com) *(adicione seu link aqui)*
+- ✉️ davi@email.com *(adicione seu email real ou remova, se preferir privacidade)*
+
+---
+
+> _"O sucesso é a soma de pequenos esforços repetidos dia após dia."_ – Robert Collier
+
+
